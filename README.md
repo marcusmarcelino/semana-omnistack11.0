@@ -1,8 +1,8 @@
+<h1 align="center"> <strong> Semana Omnistack 11.0 </strong> </h1>
+
 <div align="center">
   <img src="./tmp/img/Wallpaper-OmniStack.jpg" align="center"></img>
 </div>
-
-<h1 align="center"> <strong> Semana Omnistack 11.0 </strong> </h1>
 
 <p align="center">Projeto <strong>BE THE HERO</strong> - Rocketseat</p>
 
