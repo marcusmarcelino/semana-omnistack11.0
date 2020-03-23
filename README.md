@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" width="200" src="./tmp/img/Wallpaper-OmniStack.jpg" align="center"></img>
+  <img src="./tmp/img/Wallpaper-OmniStack.jpg" align="center"></img>
 </div>
 
 <h1 align="center"> <strong> Semana Omnistack 11.0 </strong> </h1>
