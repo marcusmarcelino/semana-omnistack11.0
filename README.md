@@ -95,7 +95,7 @@ Lembre-se: **Fique atento ao seu ip, sempre que executar a aplicação mobile, v
 ## Frontend
 Web -> resultado da aplicação em execução:
 
-<div display="flex" align="center">
+<p display="flex" align="center">
   <div>
     <img height="200" width="200" src="./tmp/img/login.png" align="center"></img>
   </div>
@@ -108,7 +108,7 @@ Web -> resultado da aplicação em execução:
   <div>
     <img height="200" width="200" src="./tmp/img/profile.png" align="center"></img>
   </div>
-</div>
+</p>
 
 ## Mobile
 App Mobile (React Native) -> resultado da execução:
