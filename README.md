@@ -95,17 +95,24 @@ Lembre-se: **Fique atento ao seu ip, sempre que executar a aplicação mobile, v
 ## Frontend
 Web -> resultado da aplicação em execução:
 
-<p align="center">
-  
-  <img height="200" width="200" src="./tmp/img/login.png" align="center"></img>
-
-  <img height="200" width="200" src="./tmp/img/new-incidents.png" align="center"></img>
-
-  <img height="200" width="200" src="./tmp/img/new-profile.png" align="center"></img>
-
-  <img height="200" width="200" src="./tmp/img/profile.png" align="center"></img>
-  
-</p>
+<table>
+	<tr>
+    <td>
+      <img src="./tmp/img/login.png" align="center"></img>
+    </td>
+    <td>
+      <img src="./tmp/img/new-incidents.png" align="center"></img>
+    </td>
+	</tr>
+	<tr>
+		<td>
+			<img src="./tmp/img/new-profile.png" align="center"></img>
+		</td>
+		<td>
+			<img src="./tmp/img/profile.png" align="center"></img>
+		</td>
+	</tr>
+</table>
 
 ## Mobile
 App Mobile (React Native) -> resultado da execução:
