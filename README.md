@@ -1,8 +1,10 @@
 <h1 align="center"> <strong> Semana Omnistack 11.0 </strong> </h1>
 
 <div align="center">
-  <img  height="300" width="600" border-radius="10" style="border-radius:10;" src="./tmp/img/Wallpaper-OmniStack.jpg" align="center"></img>
+  <img  height="300" width="600" src="./tmp/img/Wallpaper-OmniStack.jpg" align="center"></img>
 </div>
+
+<br />
 
 <p align="center">Projeto <strong>BE THE HERO</strong> - Rocketseat</p>
 
@@ -31,6 +33,13 @@
     <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen"></img>
   </a> -->
   
+</p>
+
+<p align="center">
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
 </p>
 
 ## Em Desenvolvimento
