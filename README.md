@@ -101,16 +101,16 @@ Web -> resultado da aplicação em execução:
       <img src="./tmp/img/login.png" align="center"></img>
     </td>
     <td>
-      <img src="./tmp/img/new-incidents.png" align="center"></img>
-    </td>
+			<img src="./tmp/img/new-profile.png" align="center"></img>
+		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="./tmp/img/new-profile.png" align="center"></img>
-		</td>
-		<td>
 			<img src="./tmp/img/profile.png" align="center"></img>
 		</td>
+    <td>
+      <img src="./tmp/img/new-incidents.png" align="center"></img>
+    </td>
 	</tr>
 </table>
 
