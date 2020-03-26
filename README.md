@@ -21,17 +21,17 @@
     <img src="https://img.shields.io/badge/react-16.13.1-informational?logo=react"></img>
   </a>
   
-  <!--<a aria-label="Versão do Expo" href="#">
+  <a aria-label="Versão do Expo" href="#">
     <img src="https://img.shields.io/badge/expo-36.0.0-informational?logo=expo"></img>
-  </a>--> 
+  </a>
     
   <a aria-label="Rocketseat" href="#">
     <img src="https://img.shields.io/badge/OmniStack-done-green?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
   </a>
-  <!--
+
   <a aria-label="License" href="#">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen"></img>
-  </a> -->
+  </a>
   
 </p>
 
@@ -87,6 +87,7 @@ yarn install
 yarn start
 ```
 Assim que o processo terminar, automaticamente será aberta uma página `localhost:19002` em seu navegador padrão. Conecte seu emulador, caso não o possua instalado e queira utiliza-lo estes links o ajudaram nesta tarefa, assim como uma explicação sobre o funcionamento do emulador, [Rocketseat Docs Emulador Mobile](https://docs.rocketseat.dev/ambiente-react-native/android/emulador), [Emulando React Native no iOS/Android com Expo](https://www.youtube.com/watch?v=eSjFDWYkdxM).
+
 Caso queira testa a aplicação mobile via `LAN`: baixe o aplicativo *Expo* na Play Store ou App Store e em seguida escaneie o código QR que aparece no canto esquerdo inferior da página aberta no seu navegador padrão.
 
 ### obs:
