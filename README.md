@@ -95,7 +95,7 @@ Lembre-se: **Fique atento ao seu ip, sempre que executar a aplicação mobile, v
 ## Frontend
 Web -> resultado da aplicação em execução:
 
-<p display="flex" align="center">
+<p align="center">
   
   <img height="200" width="200" src="./tmp/img/login.png" align="center"></img>
 
