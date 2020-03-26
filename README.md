@@ -95,18 +95,18 @@ Lembre-se: **Fique atento ao seu ip, sempre que executar a aplicação mobile, v
 ## Frontend
 Web -> resultado da aplicação em execução:
 
-<div display="grid" grid-template-columns="1fr 1fr" align="center">
+<div display="flex" align="center">
   <div>
-    <img src="./tmp/img/login.png" align="center"></img>
+    <img height="200" width="200" src="./tmp/img/login.png" align="center"></img>
   </div>
   <div>
-    <img src="./tmp/img/new-incidents.png" align="center"></img>
+    <img height="200" width="200" src="./tmp/img/new-incidents.png" align="center"></img>
   </div>
   <div>
-    <img src="./tmp/img/new-profile.png" align="center"></img>
+    <img height="200" width="200" src="./tmp/img/new-profile.png" align="center"></img>
   </div>
   <div>
-    <img src="./tmp/img/profile.png" align="center"></img>
+    <img height="200" width="200" src="./tmp/img/profile.png" align="center"></img>
   </div>
 </div>
 
