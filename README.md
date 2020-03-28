@@ -17,6 +17,14 @@
     <img src="https://img.shields.io/badge/node.js@lts-12.16.1-informational?logo=Node.JS"></img>
   </a>
 
+  <a aria-label="Versão do Knex" href="#">
+    <img src="https://img.shields.io/badge/knex-0.20.13-informational?logo=knex"></img>
+  </a>
+
+  <a aria-label="Versão do sqlite3" href="#">
+    <img src="https://img.shields.io/badge/sqlite3-4.1.1-informational?logo=sqlite3"></img>
+  </a>
+
   <a aria-label="Versão do React" href="#">
     <img src="https://img.shields.io/badge/react-16.13.1-informational?logo=react"></img>
   </a>
