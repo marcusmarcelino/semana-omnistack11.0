@@ -20,9 +20,25 @@
   <a aria-label="Versão do React" href="#">
     <img src="https://img.shields.io/badge/react-16.13.1-informational?logo=react"></img>
   </a>
-  
+
+  <a aria-label="Versão do React avigation/native" href="#">
+    <img src="https://img.shields.io/badge/react_navigation/native-5.1.3-informational?logo=react"></img>
+  </a>
+
+  <a aria-label="Versão do React avigation/stack" href="#">
+    <img src="https://img.shields.io/badge/react_navigation/native-5.2.8-informational?logo=react"></img>
+  </a>
+
   <a aria-label="Versão do Expo" href="#">
     <img src="https://img.shields.io/badge/expo-36.0.0-informational?logo=expo"></img>
+  </a>
+  
+  <a aria-label="Versão do Expo expo_mail_composer" href="#">
+    <img src="https://img.shields.io/badge/expo_mail_composer-8.0.0-informational?logo=expo"></img>
+  </a>
+
+  <a aria-label="Versão do Expo expo_constants" href="#">
+    <img src="https://img.shields.io/badge/expo_constants-8.0.0-informational?logo=expo"></img>
   </a>
     
   <a aria-label="Rocketseat" href="#">
@@ -32,7 +48,6 @@
   <a aria-label="License" href="#">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen"></img>
   </a>
-  
 </p>
 
 <p align="center">
