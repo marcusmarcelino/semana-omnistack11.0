@@ -1,13 +1,13 @@
 {
   "icons": [
     {
-      "src": "logo.svg",
+      "src": "icon.png",
       "sizes": "64x64",
-      "type": "image/svg"
+      "type": "image/png"
     },
     {
-      "src": "logo.svg",
-      "type": "image/svg",
+      "src": "icon.png",
+      "type": "image/png",
       "sizes": "512x512"
     }
   ]
